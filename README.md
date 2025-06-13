@@ -1,5 +1,8 @@
 # 310_Triggers5.4
 
+TO GET ALL ASSETS YOU MUST CLONE THIS REPOSITORY!
+You can open the project in UE 5.4 or later. Please build the lighting after you install.
+
 Game Design Project Repository This repository contains an Unreal Engine project for my Digital Game Design class, showcasing various interactive elements and mechanics. The goal is to build and update a comprehensive demo environment with functionality across landscapes, materials, physics, lighting, audio, and more.
 
 Features Environment and Visual Elements Landscape: A simple sculpted environment without a custom material. Materials: Examples of different materials with varied properties, including reflective, emissive, and various other surfaces. Lighting: Static and dynamic lighting, with functional light setups for atmosphere and immersion. Light Function: Dynamic effects to create light flicker.
